@@ -1,0 +1,7 @@
+alice:admin:active
+bob:user:inactive
+charlie:developer:active
+david:admin:inactive
+eve:analyst:active
+frank:user:active
+grace:developer:inactive

@@ -1,0 +1,6 @@
+Aug 11 10:01:01 server systemd[1]: Started nginx.service
+Aug 11 10:01:05 server systemd[1]: Started docker.service
+Aug 11 10:02:14 server systemd[1]: nginx.service: Failed with result 'exit-code'
+Aug 11 10:02:15 server systemd[1]: nginx.service: Scheduled restart job
+Aug 11 10:02:18 server systemd[1]: Started nginx.service
+Aug 11 10:03:44 server systemd[1]: docker.service: Main process exited

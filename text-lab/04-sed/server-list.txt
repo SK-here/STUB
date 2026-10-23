@@ -1,0 +1,6 @@
+web01 192.168.1.10 production
+web02 192.168.1.11 production
+web03 192.168.1.12 staging
+db01 192.168.1.50 production
+db02 192.168.1.51 staging
+cache01 192.168.1.60 production

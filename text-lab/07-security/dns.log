@@ -1,0 +1,5 @@
+2026-08-11 10:01:01 client=10.0.0.15 query=google.com type=A status=NOERROR
+2026-08-11 10:01:05 client=10.0.0.15 query=example.com type=A status=NOERROR
+2026-08-11 10:01:09 client=10.0.0.20 query=evil-example.com type=A status=NXDOMAIN
+2026-08-11 10:01:15 client=10.0.0.15 query=google.com type=A status=NOERROR
+2026-08-11 10:01:19 client=10.0.0.20 query=evil-example.com type=A status=NXDOMAIN

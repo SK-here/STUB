@@ -1,0 +1,8 @@
+name,age,department
+Alice,25,Security
+Bob,31,DevOps
+Charlie,,Security
+David,29,Engineering
+Eve,unknown,DevOps
+Frank,42,
+Grace,27,Security

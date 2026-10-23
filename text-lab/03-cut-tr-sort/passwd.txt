@@ -1,0 +1,5 @@
+root:x:0:0:root:/root:/bin/bash
+alice:x:1000:1000:Alice:/home/alice:/bin/bash
+bob:x:1001:1001:Bob:/home/bob:/bin/zsh
+charlie:x:1002:1002:Charlie:/home/charlie:/bin/bash
+david:x:1003:1003:David:/home/david:/bin/fish

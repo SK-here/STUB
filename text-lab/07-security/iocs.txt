@@ -1,0 +1,13 @@
+# Suspicious IPs
+203.0.113.55
+198.51.100.20
+192.0.2.44
+
+# Domains
+malicious-example.com
+evil-example.net
+suspicious-domain.org
+
+# Hashes
+5d41402abc4b2a76b9719d911017c592
+098f6bcd4621d373cade4e832627b4f6

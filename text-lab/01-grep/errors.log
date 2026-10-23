@@ -1,0 +1,7 @@
+2026-08-11 ERROR service=api message="database unavailable"
+2026-08-11 INFO service=web message="request completed"
+2026-08-11 ERROR service=auth message="invalid credentials"
+2026-08-11 WARNING service=api message="slow response"
+2026-08-11 CRITICAL service=db message="connection pool exhausted"
+2026-08-11 ERROR service=web message="upstream timeout"
+2026-08-11 INFO service=auth message="login successful"

@@ -1,0 +1,11 @@
+2026-08-11 09:00:01 INFO Application started
+2026-08-11 09:01:12 INFO User login successful user=alice
+2026-08-11 09:02:33 WARNING High memory usage memory=82%
+2026-08-11 09:03:41 ERROR Database connection failed host=db01
+2026-08-11 09:04:02 INFO User login successful user=bob
+2026-08-11 09:05:18 ERROR API request failed endpoint=/api/users
+2026-08-11 09:06:27 DEBUG Cache lookup key=user:123
+2026-08-11 09:07:35 WARNING Connection pool nearly exhausted
+2026-08-11 09:08:44 ERROR Database connection failed host=db01
+2026-08-11 09:09:51 INFO Application health check passed
+2026-08-11 09:10:05 ERROR Authentication service unavailable

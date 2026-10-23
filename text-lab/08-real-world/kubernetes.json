@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "metadata": {"name": "api-7d9f", "namespace": "production"},
+      "status": {"phase": "Running"},
+      "spec": {"nodeName": "node01"}
+    },
+    {
+      "metadata": {"name": "web-55a2", "namespace": "production"},
+      "status": {"phase": "Running"},
+      "spec": {"nodeName": "node02"}
+    },
+    {
+      "metadata": {"name": "worker-19bc", "namespace": "staging"},
+      "status": {"phase": "Pending"},
+      "spec": {"nodeName": "node03"}
+    },
+    {
+      "metadata": {"name": "db-8f21", "namespace": "production"},
+      "status": {"phase": "CrashLoopBackOff"},
+      "spec": {"nodeName": "node01"}
+    }
+  ]
+}

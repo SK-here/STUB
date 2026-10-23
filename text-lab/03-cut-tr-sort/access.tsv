@@ -1,0 +1,7 @@
+timestamp	ip	method	path	status	bytes
+10:01:01	192.168.1.10	GET	/login	200	523
+10:02:15	203.0.113.55	POST	/login	401	182
+10:03:22	203.0.113.55	POST	/login	401	190
+10:04:31	10.0.0.15	GET	/dashboard	200	4210
+10:05:42	198.51.100.20	GET	/admin	403	312
+10:06:53	203.0.113.55	GET	/wp-login.php	404	145

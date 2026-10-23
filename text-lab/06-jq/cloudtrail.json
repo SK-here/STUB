@@ -1,0 +1,28 @@
+{
+  "Records": [
+    {
+      "eventTime": "2026-08-11T09:10:00Z",
+      "eventName": "ConsoleLogin",
+      "eventSource": "signin.amazonaws.com",
+      "sourceIPAddress": "203.0.113.55",
+      "userIdentity": {"type": "IAMUser", "userName": "alice"},
+      "responseElements": {"ConsoleLogin": "Success"}
+    },
+    {
+      "eventTime": "2026-08-11T09:12:00Z",
+      "eventName": "ConsoleLogin",
+      "eventSource": "signin.amazonaws.com",
+      "sourceIPAddress": "198.51.100.20",
+      "userIdentity": {"type": "IAMUser", "userName": "bob"},
+      "responseElements": {"ConsoleLogin": "Failure"}
+    },
+    {
+      "eventTime": "2026-08-11T09:15:00Z",
+      "eventName": "CreateUser",
+      "eventSource": "iam.amazonaws.com",
+      "sourceIPAddress": "203.0.113.55",
+      "userIdentity": {"type": "IAMUser", "userName": "alice"},
+      "responseElements": {"userName": "suspicious-user"}
+    }
+  ]
+}

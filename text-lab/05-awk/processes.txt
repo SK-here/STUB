@@ -1,0 +1,8 @@
+PID USER CPU MEM COMMAND
+1201 root 0.2 1.2 sshd
+1202 alice 4.5 8.1 firefox
+1203 bob 12.7 4.2 code
+1204 root 0.8 2.1 systemd
+1205 alice 25.3 12.4 python
+1206 charlie 7.8 6.3 chrome
+1207 bob 2.1 3.7 docker

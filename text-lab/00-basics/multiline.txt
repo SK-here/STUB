@@ -1,0 +1,7 @@
+INFO Server started
+WARNING Disk usage above 80%
+ERROR Database connection failed
+INFO Retrying connection
+ERROR Authentication service unavailable
+DEBUG Connection retry #2
+INFO Server recovered

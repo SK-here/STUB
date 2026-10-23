@@ -1,0 +1,5 @@
+alice    admin     active
+bob user inactive
+charlie        developer       active
+david   admin    inactive
+eve analyst active

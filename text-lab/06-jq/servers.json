@@ -1,0 +1,32 @@
+{
+  "servers": [
+    {
+      "name": "web01",
+      "environment": "production",
+      "ip": "10.0.0.10",
+      "status": "running",
+      "cpu": 42
+    },
+    {
+      "name": "web02",
+      "environment": "production",
+      "ip": "10.0.0.11",
+      "status": "running",
+      "cpu": 78
+    },
+    {
+      "name": "db01",
+      "environment": "production",
+      "ip": "10.0.0.50",
+      "status": "running",
+      "cpu": 91
+    },
+    {
+      "name": "test01",
+      "environment": "staging",
+      "ip": "10.0.1.10",
+      "status": "stopped",
+      "cpu": 0
+    }
+  ]
+}

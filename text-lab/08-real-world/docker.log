@@ -1,0 +1,6 @@
+2026-08-11T10:01:01Z INFO container=api msg="Server started"
+2026-08-11T10:01:12Z INFO container=web msg="Request received"
+2026-08-11T10:01:23Z ERROR container=api msg="Database connection failed"
+2026-08-11T10:01:35Z WARNING container=worker msg="Queue depth high"
+2026-08-11T10:01:47Z ERROR container=api msg="Database connection failed"
+2026-08-11T10:02:01Z INFO container=api msg="Database connection restored"

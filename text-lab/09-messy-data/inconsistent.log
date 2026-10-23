@@ -1,0 +1,6 @@
+2026-08-11 INFO user=alice ip=10.0.0.1
+2026-08-11 ERROR user=bob ip=10.0.0.2 message="database failed"
+2026-08-11 WARNING user=charlie
+2026-08-11 ERROR ip=10.0.0.4 user=david
+ERROR malformed line
+2026-08-11 INFO user=eve ip=10.0.0.5 extra=data
